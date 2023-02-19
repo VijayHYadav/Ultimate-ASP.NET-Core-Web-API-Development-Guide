@@ -13,3 +13,6 @@ namespace HotelListing.API.Data
         public DbSet<Country> Countries { get; set; }
     }
 }
+
+// add-migration InitialMigration
+// update-database
