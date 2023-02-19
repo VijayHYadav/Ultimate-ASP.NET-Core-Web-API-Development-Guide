@@ -66,3 +66,6 @@ namespace HotelListing.API.Data
 
 // add-migration InitialMigration
 // update-database
+
+// Add-Migration SeededCountriesAndHotels
+// update-database
